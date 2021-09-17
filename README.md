@@ -17,4 +17,4 @@
   
   - ✏ Atualmente estou aprendendo JAVA
 - 💻 Buscando implementar meus conhecimentos em projetos postados aqui 
-- 📞 Whatsapp: (48) 99669-0967 | Instagram @adriannpiccini | Twitter @adrianpiccinii | E-mail adrianmormaii@gmail.com
+- 📞 Linkedin https://www.linkedin.com/in/adrian-piccini/ | Instagram @adriannpiccini | Twitter @adrianpiccinii | E-mail adrianmormaii@gmail.com
