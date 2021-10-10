@@ -17,4 +17,4 @@
   
   - ✏ Atualmente estou aprendendo JAVA
 - 💻 Buscando implementar meus conhecimentos em projetos postados aqui 
-- 📞 Linkedin linkedin.com/in/adrian-piccini/ | Instagram @adriannpiccini | Twitter @adrianpiccinii | E-mail adrianmormaii@gmail.com
+- 📞 E-mail adrianmormaii@gmail.com
